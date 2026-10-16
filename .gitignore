@@ -1,0 +1,6 @@
+.DS_Store
+.obsidian/
+.claudian/
+.trash/
+.env
+.env.*
